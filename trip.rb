@@ -19,6 +19,6 @@
 def trip
   puts "Let's plan your trip! Where would you like to stay"
   puts "Paris"
-  trip.gets.chomp
+  "Paris".gets.chomp
 end 
 trip
