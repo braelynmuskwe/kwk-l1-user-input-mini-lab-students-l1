@@ -16,9 +16,9 @@
 # puts ""
 
 
-def trip
+def trip_planning
   puts "Let's plan your trip! Where would you like to stay"
   puts "Paris"
   "Paris".gets.chomp
 end 
-trip
+trip_planning
