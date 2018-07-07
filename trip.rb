@@ -19,5 +19,6 @@
 def trip_planning
   puts "Let's plan your trip! Where would you like to stay"
   trip_planning gets.chomp
+  puts "Paris"
 end 
 trip_planning
