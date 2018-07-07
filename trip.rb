@@ -22,5 +22,4 @@ def trip_planning
   puts "Paris" 
   trip_planning gets.chomp
 end 
-end 
 trip_planning
