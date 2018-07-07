@@ -22,7 +22,7 @@ def trip_planning
   puts "paris" 
  gets.chomp
   puts "Where in Paris would you like to stay"
-  trip_planning gets.chomp
+ gets.chomp
   puts "Champagne"
 end 
 trip_planning
